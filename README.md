@@ -1,6 +1,6 @@
-# crafty_bay
+# Shop AMR
 
-Crafty Bay E Commerce project
+e-Commerce project
 
 ## Getting Started
 
